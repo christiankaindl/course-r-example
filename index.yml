@@ -1,6 +1,6 @@
-moduleId: your-course-id
-title: Quantargo R course template
-abstract: Add your course description here
+moduleId: course-66b80e90-4627-11ec-8255-5d33583e7655
+title: My course
+abstract: Awesome course ahead!
 usagePlan: free
 technologies:
 - R
